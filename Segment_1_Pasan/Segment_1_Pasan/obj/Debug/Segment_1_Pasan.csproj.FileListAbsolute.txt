@@ -1,0 +1,6 @@
+E:\SLIIT\Projects\Segment_1_Pasan\Segment_1_Pasan\bin\Debug\Segment_1_Pasan.exe.config
+E:\SLIIT\Projects\Segment_1_Pasan\Segment_1_Pasan\obj\Debug\Segment_1_Pasan.csprojResolveAssemblyReference.cache
+E:\SLIIT\Projects\Segment_1_Pasan\Segment_1_Pasan\bin\Debug\Segment_1_Pasan.exe
+E:\SLIIT\Projects\Segment_1_Pasan\Segment_1_Pasan\bin\Debug\Segment_1_Pasan.pdb
+E:\SLIIT\Projects\Segment_1_Pasan\Segment_1_Pasan\obj\Debug\Segment_1_Pasan.exe
+E:\SLIIT\Projects\Segment_1_Pasan\Segment_1_Pasan\obj\Debug\Segment_1_Pasan.pdb

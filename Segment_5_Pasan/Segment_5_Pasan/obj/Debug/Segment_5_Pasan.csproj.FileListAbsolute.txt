@@ -1,0 +1,11 @@
+E:\SLIIT\Projects\Segment_5_Pasan\Segment_5_Pasan\bin\Debug\Segment_5_Pasan.exe.config
+E:\SLIIT\Projects\Segment_5_Pasan\Segment_5_Pasan\bin\Debug\Segment_5_Pasan.exe
+E:\SLIIT\Projects\Segment_5_Pasan\Segment_5_Pasan\bin\Debug\Segment_5_Pasan.pdb
+E:\SLIIT\Projects\Segment_5_Pasan\Segment_5_Pasan\obj\Debug\Segment_5_Pasan.csprojResolveAssemblyReference.cache
+E:\SLIIT\Projects\Segment_5_Pasan\Segment_5_Pasan\obj\Debug\Segment_5_Pasan.Form1.resources
+E:\SLIIT\Projects\Segment_5_Pasan\Segment_5_Pasan\obj\Debug\Segment_5_Pasan.Properties.Resources.resources
+E:\SLIIT\Projects\Segment_5_Pasan\Segment_5_Pasan\obj\Debug\Segment_5_Pasan.Registration.resources
+E:\SLIIT\Projects\Segment_5_Pasan\Segment_5_Pasan\obj\Debug\Segment_5_Pasan.Student_Registration.resources
+E:\SLIIT\Projects\Segment_5_Pasan\Segment_5_Pasan\obj\Debug\Segment_5_Pasan.csproj.GenerateResource.Cache
+E:\SLIIT\Projects\Segment_5_Pasan\Segment_5_Pasan\obj\Debug\Segment_5_Pasan.exe
+E:\SLIIT\Projects\Segment_5_Pasan\Segment_5_Pasan\obj\Debug\Segment_5_Pasan.pdb
